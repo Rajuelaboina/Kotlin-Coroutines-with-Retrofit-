@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinProject</string>
+    <string name="login">Login</string>
+    <string name="enter_text">Enter text</string>
+    <string name="password">Password</string>
+    <string name="name">Name:</string>
+    <string name="todo">TODO</string>
+    <string name="releasedate">ReleaseDate:</string>
+    <string name="overview">OverView</string>
+</resources>
